@@ -22,5 +22,9 @@ This project is used to classify news articles as Fake or Real using Machine Lea
 ## Result
 The model successfully classified fake and real news articles with good accuracy.
 
+## Dataset used:
+Fake and Real News Dataset from Kaggle  
+Dataset link: https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset?utm_source
+
 ## Conclusion
 This project helped me understand text preprocessing, feature extraction and machine learning classification techniques.
